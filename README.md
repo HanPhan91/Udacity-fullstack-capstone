@@ -1,5 +1,7 @@
 # App Capstone Backend
 
+    This is final project for Udacity's FullStack Web Developer Nanodegree. Web app can be accessed at URL: https://udacity-fullstack-capstone-1.onrender.com/
+
 ## Installation instructions
 
     Run `pip install -r requirements.txt` to install project dependencies
